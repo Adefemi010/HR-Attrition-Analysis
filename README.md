@@ -6,11 +6,11 @@ Overview
 Employee attrition is a critical concern for any organization, impacting productivity, morale, and overall business performance. This dashboard consolidates data from various HR systems to offer a detailed view of attrition trends, patterns, and root causes. By analyzing this data, we can identify key areas for improvement and implement targeted interventions to reduce turnover rates.
 Key Features
 
-    Attrition Trends: Visualize overall attrition rates over time, segmented by departments, job roles, and locations. Identify periods with high turnover and correlate them with potential external and internal factors.
+Attrition Trends: Visualize overall attrition rates over time, segmented by departments, job roles, and locations. Identify periods with high turnover and correlate them with potential external and internal factors.
     
-    Demographic Analysis: Examine attrition rates across different demographic groups, including age, gender, tenure, and education level. Understand how these factors influence employee retention.
+Demographic Analysis: Examine attrition rates across different demographic groups, including age, gender, tenure, and education level. Understand how these factors influence employee retention.
     
-    Employee Engagement: Assess the impact of employee engagement initiatives on retention rates. Track participation in engagement programs and correlate them with attrition metrics.
+Employee Engagement: Assess the impact of employee engagement initiatives on retention rates. Track participation in engagement programs and correlate them with attrition metrics.
     
 ![3](https://github.com/Adefemi010/HR-Attrition-Analysis/assets/149597242/cf852748-0d1d-432c-b4fd-14b1a9913d2d)
 
@@ -18,13 +18,13 @@ Key Features
 
 Objectives
 
-    Reduce Turnover: Identify and address the key drivers of employee attrition to reduce turnover rates and retain top talent.
+Reduce Turnover: Identify and address the key drivers of employee attrition to reduce turnover rates and retain top talent.
     
-    Enhance Employee Satisfaction: Use data-driven insights to improve workplace conditions, career development opportunities, and overall employee satisfaction.
+Enhance Employee Satisfaction: Use data-driven insights to improve workplace conditions, career development opportunities, and overall employee satisfaction.
     
-    Strategic Workforce Planning: Develop and implement strategic HR initiatives based on data insights to ensure a stable and motivated workforce.
+Strategic Workforce Planning: Develop and implement strategic HR initiatives based on data insights to ensure a stable and motivated workforce.
     
-    Cost Management: Minimize the costs associated with high turnover, including recruitment, training, and lost productivity.
+Cost Management: Minimize the costs associated with high turnover, including recruitment, training, and lost productivity.
 
 Conclusion
 
